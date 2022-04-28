@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # flutter_build_demo
 
 A new Flutter project.
@@ -18,3 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # flutter-build-demo
 >>>>>>> 827434b3bc02cdfac30127152bbc2bfaf1339bc9
+=======
+# flutter-build-demo
+>>>>>>> 914cf281a98634e01b3ace627c85dbc54f5c7df2
